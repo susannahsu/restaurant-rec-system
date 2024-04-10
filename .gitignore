@@ -1,5 +1,7 @@
 # big file
 data/review-Massachusetts_10.json
+data/review-Massachusetts.json
+data/df_expanded_checkpoint.csv
 
 .DS_Store
 
