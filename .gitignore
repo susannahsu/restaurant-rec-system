@@ -2,6 +2,7 @@
 data/review-Massachusetts_10.json
 data/review-Massachusetts.json
 data/df_expanded_checkpoint.csv
+data/cleaned_data.csv
 
 .DS_Store
 
